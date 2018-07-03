@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  emotions = ["happy","happy","joy","joy"]
+  array = ["wow", "I", "am", "really", "learning"]
   emotions << "arrays!"
 end
 
