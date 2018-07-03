@@ -3,11 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["happy","happy","joy","joy"]
+  emotions = ["happy","happy","joy","joy"]
 end
 
 def add_element_to_end_of_array(array, element)
-  ["happy","happy","joy","joy"]
+  emotions = ["happy","happy","joy","joy"]
+  
   
 end
 
