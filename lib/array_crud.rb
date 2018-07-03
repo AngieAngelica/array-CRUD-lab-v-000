@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  emotions = ["happy","happy","joy","joy"]
+  array = ["I", "am", "really", "learning"]
   emotions.unshift "wow"
 end
 
